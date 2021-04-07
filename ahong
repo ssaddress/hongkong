@@ -1,1 +1,1 @@
-{"server":"14.128.35.67","server_port":28899,"password":"urtughfghfj","method":"chacha20-ietf-poly1305","remarks":"35.67","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+[{"server":"14.128.35.67","server_port":28899,"password":"urtughfghfj","method":"chacha20-ietf-poly1305","remarks":"35.67","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
