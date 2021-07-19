@@ -1,0 +1,11 @@
+[{"server":"14.128.38.194","server_port":11028,"password":"Y0RjftZ7R5VkPh","method":"aes-256-gcm","remarks":"38.194","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"27.124.30.196","server_port":43201,"password":"n8ZhbaHt9LJJLy","method":"aes-256-gcm","remarks":"30.196","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"118.107.38.210","server_port":14596,"password":"VjNEQBUJBTi2EE","method":"aes-256-gcm","remarks":"38.210","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"180.215.24.199","server_port":13566,"password":"2fHgh5UR9uyNw2","method":"aes-256-gcm","remarks":"24.199","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"202.95.22.198","server_port":13389,"password":"8MQ6VnXQZr58Pc","method":"aes-256-gcm","remarks":"22.198","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"180.215.25.201","server_port":16689,"password":"PecdmKHpQb5Es4","method":"aes-256-gcm","remarks":"25.201","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"14.128.38.204","server_port":17231,"password":"Zrb7TotuNUyvr0","method":"aes-256-gcm","remarks":"38.204","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"118.107.38.194","server_port":18831,"password":"HRr9UDwjCnuCwH","method":"aes-256-gcm","remarks":"38.194","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"27.124.30.213","server_port":15891,"password":"2y2gk7wd4Q1DUU","method":"aes-256-gcm","remarks":"30.213","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"180.215.26.194","server_port":18641,"password":"Qq48FX3A3myPPg","method":"aes-256-gcm","remarks":"26.194","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+
