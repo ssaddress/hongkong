@@ -7,4 +7,4 @@
 {"server":"202.59.155.73","server_port":34614,"password":"fk8iaM16pnai3VJ","method":"aes-256-gcm","remarks":"香港37","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"115.126.70.59","server_port":35580,"password":"F4G2uA8QBxWAfgF","method":"aes-256-gcm","remarks":"香港38","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"118.102.13.20","server_port":39765,"password":"hAWnvzpQGkAuWx4","method":"aes-256-gcm","remarks":"香港39","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"192.151.232.11","server_port":49936,"password":"wo69cGXnJxtjfHf","method":"aes-256-gcm","remarks":"香港40","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"118.102.15.39","server_port":49936,"password":"wo69cGXnJxtjfHf","method":"aes-256-gcm","remarks":"香港40","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
