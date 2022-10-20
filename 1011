@@ -1,5 +1,5 @@
 [{"server":"103.119.3.139","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港1","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"103.142.103.220","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港2","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
+{"server":"85.8.182.99","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港2","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.119.3.174","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港3","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.100.159.155","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港4","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"103.119.3.172","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港5","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
