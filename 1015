@@ -7,4 +7,4 @@
 {"server":"thk37.ss1012.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港37","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"thk38.ss1012.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港38","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
 {"server":"thk39.ss1012.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港39","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false},
-{"server":"thk40.ss1012.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港40","route":"all","remote_dns":"dns.google","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
+{"server":"thk40.ss1012.top","server_port":11023,"password":"ll668668@","method":"aes-256-gcm","remarks":"新香港40","route":"all","remote_dns":"114.ss1015.top","ipv6":false,"metered":false,"proxy_apps":{"enabled":false},"udpdns":false}]
